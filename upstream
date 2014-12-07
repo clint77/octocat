@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+upstream remote are usually used for managing (pulling or pushing data) remote repositories stored on the Internet. This way collaboration on any Git project is possible.
